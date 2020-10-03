@@ -15,7 +15,7 @@ require (
 	modernc.org/internal v1.0.0 // indirect
 	modernc.org/lldb v1.0.0 // indirect
 	modernc.org/mathutil v1.0.0 // indirect
-	modernc.org/ql v1.0.0
+	modernc.org/ql v1.1.0
 	modernc.org/sortutil v1.0.0 // indirect
 	modernc.org/strutil v1.0.0 // indirect
 	modernc.org/zappy v1.0.0 // indirect
